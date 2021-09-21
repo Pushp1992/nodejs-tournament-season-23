@@ -1,0 +1,112 @@
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "city": {
+            "PUNE": {
+                "id": 1,
+                "name": "PUNE",
+                "data": {
+                    "product_category_list": {
+                        "bedroom": {
+                            "id": 1,
+                            "king_bed": {
+                                "id": 1,
+                                "price": "INR 30000",
+                                "wood_type": "sheesham"
+                            },
+                            "queen_bed": {
+                                "id": 2,
+                                "price": "INR 33000",
+                                "wood_type": "sagwan"
+                            },
+                            "mattress": {
+                                "id": 3,
+                                "price": "INR 30800",
+                                "wood_type": "ply_wood"
+                            }
+                        },
+                        "living_room": {
+                            "id": 2,
+                            "2_seater_sofa": {
+                                "id": 1,
+                                "price": "INR 23000",
+                                "wood_type": "sheesham"
+                            },
+                            "multi_seater_sofa": {
+                                "id": 2,
+                                "price": "INR 15000",
+                                "wood_type": "sheesham"
+                            }
+                        },
+                        "fitness": {
+                            "id": 3,
+                            "tredmill": {
+                                "id": 1,
+                                "price": "INR 30000",
+                                "material_type": "steel"
+                            },
+                            "cross_trainer": {
+                                "id": 1,
+                                "price": "INR 40000",
+                                "material_type": "iron"
+                            }
+                        }
+                    }
+                },
+                "BENGALURU": {
+                    "id": 1,
+                    "name": "BENGALURU",
+                    "data": {
+                        "product_category_list": {
+                            "bedroom": {
+                                "id": 1,
+                                "king_bed": {
+                                    "id": 1,
+                                    "price": "INR 30000",
+                                    "wood_type": "sheesham"
+                                },
+                                "queen_bed": {
+                                    "id": 2,
+                                    "price": "INR 33000",
+                                    "wood_type": "sagwan"
+                                },
+                                "mattress": {
+                                    "id": 3,
+                                    "price": "INR 30800",
+                                    "wood_type": "ply_wood"
+                                }
+                            },
+                            "living_room": {
+                                "id": 2,
+                                "2_seater_sofa": {
+                                    "id": 1,
+                                    "price": "INR 23000",
+                                    "wood_type": "sheesham"
+                                },
+                                "multi_seater_sofa": {
+                                    "id": 2,
+                                    "price": "INR 15000",
+                                    "wood_type": "sheesham"
+                                }
+                            },
+                            "fitness": {
+                                "id": 3,
+                                "tredmill": {
+                                    "id": 1,
+                                    "price": "INR 30000",
+                                    "material_type": "steel"
+                                },
+                                "cross_trainer": {
+                                    "id": 1,
+                                    "price": "INR 40000",
+                                    "material_type": "iron"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "userList": [
+            {
+                "id": 1,
+                "name": "pushp",
+                "email": "pushp@gmail.com",
+                "city": "Bengaluru",
+                "has_subscription": true,
+                "is_new_user": false
+
+            },
+            {
+                "id": 2,
+                "name": "priya",
+                "email": "priya@gmail.com",
+                "city": "Pune",
+                "has_subscription": true,
+                "is_new_user": true
+            },
+            {
+                "id": 3,
+                "name": "rahul",
+                "email": "rahul@gmail.com",
+                "city": "Hyderabad",
+                "has_subscription": true,
+                "is_new_user": false
+            }
+        ]
+    }
+}
